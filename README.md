@@ -1,8 +1,8 @@
 https://github.com/Amitmund/fun.git
-###
+#####################################
 
 create a new repository on the command line
-###
+#####################################
 
 echo "# fun" >> README.md
 
@@ -17,7 +17,7 @@ git remote add origin https://github.com/Amitmund/fun.git
 git push -u origin master
 
 push an existing repository from the command line
-###
+#####################################
 
 git remote add origin https://github.com/Amitmund/fun.git
 
